@@ -1,0 +1,11 @@
+M:\_DEV\ScheduledTaskChecker\bin\Debug\taskstowatch.json
+M:\_DEV\ScheduledTaskChecker\bin\Debug\ScheduledTaskChecker.exe.config
+M:\_DEV\ScheduledTaskChecker\bin\Debug\ScheduledTaskChecker.exe
+M:\_DEV\ScheduledTaskChecker\bin\Debug\ScheduledTaskChecker.pdb
+M:\_DEV\ScheduledTaskChecker\bin\Debug\BitFactory.Logging.dll
+M:\_DEV\ScheduledTaskChecker\bin\Debug\Newtonsoft.Json.dll
+M:\_DEV\ScheduledTaskChecker\obj\Debug\ScheduledTaskChecker.csprojResolveAssemblyReference.cache
+M:\_DEV\ScheduledTaskChecker\obj\Debug\Interop.TaskScheduler.dll
+M:\_DEV\ScheduledTaskChecker\obj\Debug\ScheduledTaskChecker.csproj.ResolveComReference.cache
+M:\_DEV\ScheduledTaskChecker\obj\Debug\ScheduledTaskChecker.exe
+M:\_DEV\ScheduledTaskChecker\obj\Debug\ScheduledTaskChecker.pdb
